@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos Propios\\ConfiguracionBD\\SolucionConfigWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44D19590-5E0C-4A59-A5B5-CB41C323E14A}|SolucionConfigWebApi\\SolucionConfigWebApi.csproj|c:\\proyectos propios\\configuracionbd\\solucionconfigwebapi\\solucionconfigwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D19590-5E0C-4A59-A5B5-CB41C323E14A}|SolucionConfigWebApi\\SolucionConfigWebApi.csproj|solutionrelative:solucionconfigwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos Propios\\ConfiguracionBD\\SolucionConfigWebApi\\SolucionConfigWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "SolucionConfigWebApi\\Program.cs",
+              "ToolTip": "C:\\Proyectos Propios\\ConfiguracionBD\\SolucionConfigWebApi\\SolucionConfigWebApi\\Program.cs",
+              "RelativeToolTip": "SolucionConfigWebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:16:27.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
